@@ -266,7 +266,9 @@ img {
 .about__img {
   justify-self: center;
 }
-
+.project{
+  padding: 40px;
+}
 .about__img img {
   width: 200px;
   border-radius: .5rem;
@@ -320,21 +322,34 @@ img {
 }
 
 .skills__html {
-  width: 95%;
+  width: 100%;
 }
 
 .skills__css {
-  width: 85%;
+  width: 100%;
 }
 
 .skills__js {
+  width: 100%;
+}
+.skills__react {
+  width: 100%;
+}
+.skills__bt {
+  width: 100%;
+}
+.skills__tc {
+  width: 100%;
+}
+.skills__node {
+  width: 66%;
+}
+.skills__exp {
   width: 65%;
 }
-
-.skills__ux {
-  width: 85%;
+.skills__db {
+  width: 50%;
 }
-
 .skills__img {
   border-radius: .5rem;
 }
